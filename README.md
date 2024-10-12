@@ -7,7 +7,7 @@ This project implements a FastAPI application that performs CRUD operations for 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/fastapi-crud-app.git
+   git clone https://github.com/yourusername/fastapi-crud.git
    cd fastapi-crud-app
    ```
 
