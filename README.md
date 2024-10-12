@@ -39,7 +39,7 @@ This project implements a FastAPI application that performs CRUD operations for 
 - POST /items/: Create a new item
 - GET /items/{item_id}: Retrieve an item by ID
 - GET /items/filter: Filter items based on email, expiry date, insert date, and quantity
-- GET /items/aggregate: Aggregate data to return the count of items for each email
+- GET /items/aggregate/count-by-email: Aggregate data to return the count of items for each email
 - DELETE /items/{item_id}: Delete an item based on its ID
 - PUT /items/{item_id}: Update an item's details by ID
 
@@ -47,7 +47,7 @@ This project implements a FastAPI application that performs CRUD operations for 
 
 - POST /clock-in/: Create a new clock-in entry
 - GET /clock-in/{clock_in_id}: Retrieve a clock-in record by ID
-- GET /clock-in/filter: Filter clock-in records based on email, location, and insert datetime
+- GET /clock-in/: Filter clock-in records based on email, location, and insert datetime
 - DELETE /clock-in/{clock_in_id}: Delete a clock-in record based on its ID
 - PUT /clock-in/{clock_in_id}: Update a clock-in record by ID
 
