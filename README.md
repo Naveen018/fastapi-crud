@@ -53,9 +53,9 @@ This project implements a FastAPI application that performs CRUD operations for 
 
 ## Hosted Application
 
-The application is hosted on [Koyeb/Heroku/etc.]. You can access the Swagger documentation at:
+The application is hosted on Koyeb. You can access the Swagger documentation at:
 
-[Insert Swagger URL here once deployed]
+https://rare-marci-plexcel-171bb93d.koyeb.app/docs
 
 ## Technologies Used
 
